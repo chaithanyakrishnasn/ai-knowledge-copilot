@@ -1,6 +1,29 @@
+# Virtual Environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Environment variables (VERY IMPORTANT)
 .env
+
+# Logs
 logs/
+
+# Uploaded data
 data/
+
+# Vector database
+chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Git
+.git/
